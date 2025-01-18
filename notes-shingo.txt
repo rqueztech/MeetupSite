@@ -1,1 +1,0 @@
-Programming language: HTML, CSS, Javascript, PHP
